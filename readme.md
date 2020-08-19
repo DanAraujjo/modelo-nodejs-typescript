@@ -1,5 +1,7 @@
 # Setup NodeJS com Typescript
 
+[![](http://img.youtube.com/vi/rCeGfFk-uCk/0.jpg)](http://www.youtube.com/watch?v=rCeGfFk-uCk "")
+
 ### Criando o projeto
 
 ```bash
@@ -88,6 +90,7 @@ yarn add -D eslint-plugin-node eslint-plugin-promise
 ```
 
 Altere o arquivo **.eslintrc.json**
+
 Crie o arquivo **.eslintignore**
 
 ### Jest
